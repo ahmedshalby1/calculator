@@ -1,0 +1,308 @@
+body{
+    background-color: black;
+  }
+  .sqaure{
+    background-color: black;
+    width: 335px;
+    height: 411px;
+    position: absolute;
+    top: 29%;
+    left: 36%;
+    border-radius: 13px;
+  }
+  .input2{
+    width: 313px;
+    height: 40px;
+    position: absolute;
+    top: 37%;
+    left: 36%;
+    border-radius: 14px;
+    border: none;
+    outline: none;
+    background-color: #f1f1f1;
+    font-size: 20px;
+    padding: 10px;
+  }
+  .one{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 65%;
+    left: 37%;
+    
+  }
+  .two{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 65%;
+    left: 41%;
+  
+  }
+  .three{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 65%;
+    left: 45%;
+  
+  }
+  .four{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 59%;
+    left: 37%;
+  
+  }
+  .five{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 59%;
+    left: 41%;
+  
+  }
+  .six{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 59%;
+    left: 45%;
+  
+  }
+  
+  .seven{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 53%;
+    left: 37%;
+  
+  }
+  .eight{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 53%;
+    left: 41%;
+  
+  }
+  .nine{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 53%;
+    left: 45%;
+  
+  }
+  .zero{
+    width: 44px;
+    height: 32px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 70.6%;
+    left: 37.3%;
+    
+  }
+  .point{
+    width: 27px;
+    height: 27px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 71%;
+    left: 41.7%;
+  }
+  .equal{
+    width: 69px;
+    height: 50px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 45%;
+    left: 42%;
+    z-index: 3;
+    font-size: 49px;
+    
+  }
+  .sum{
+    width: 69px;
+    height: 50px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 52%;
+    left: 51%;
+    font-size: 49px;
+  }
+  .min{
+    width: 69px;
+    height: 50px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 60%;
+    left: 51%;
+    font-size: 49px;
+  }
+  .mult{
+    width: 69px;
+    height: 50px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 67%;
+    left: 51%;
+    font-size: 49px;
+  }
+  .devide{
+    width: 69px;
+    height: 50px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 44%;
+    left: 51%;
+    font-size: 49px;
+  }
+  .clear{
+    width: 69px;
+    height: 50px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 45%;
+    left: 37%;
+    font-size: 49px;
+  }
+  .del{
+    width: 62px;
+    height: 40px;
+    background-color: black;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 45%;
+    left: 47%;
+    font-size: 46px;
+  }
